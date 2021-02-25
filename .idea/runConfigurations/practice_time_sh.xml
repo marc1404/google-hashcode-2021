@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="time.sh" type="ShConfigurationType">
+  <configuration default="false" name="practice/time.sh" type="ShConfigurationType">
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="$PROJECT_DIR$/practice/time.sh" />
     <option name="SCRIPT_OPTIONS" value="" />
